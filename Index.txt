@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fintech</title>
+
+<!-- Google Fonts -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Stick+No+Bills&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="./assets/css/styles.css">
+
+</head>
+<body>
+    <div class="container my-3">
+    <h1 class="title-page"> EIT</h1>
+   
+  
+<h2></h2>
+<p class="text-item">
+    Faça o Login:<br> <br>
+    Login <input type="text" size="30" maxlength="16"><br> <br>
+    Senha <input type="password" size="10" maxlength="6"
+</p>
+
+<a href="btn btn-primary-lg">Acessar</a>
+<div class="row">
+    
+</div>
+
+</div>
+
+
+</body>
+</html>
